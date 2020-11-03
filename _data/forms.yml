@@ -7,15 +7,15 @@
 - form: cookbook  
   details:
 - form: tutorial  
-  details:
+  details: [The Programming Historian](https://programminghistorian.org/) regularly publishes peer-reviewed tutorials aimed at humanities scholars learning technical methods.  
 - form: puppet show  
-  details:
+  details: The 2020-2021 Praxis Fellows cohort at [Scholars' Lab](https://scholarslab.lib.virginia.edu) incorporated puppetry into their [team charter](https://scholarslab.lib.virginia.edu/blog/2020-praxis-charter-blog/).
 - form: syllabus  
   details:
 - form: browser extension  
-  details:
+  details: Library of Congress Labs' Flynn Shannon published a [browser extension](https://labs.loc.gov/work/experiments/free-to-use-browser-extension/) that shows you a new LoC image every time you open a new tab.  
 - form: data/API query + display  
-  details:
+  details: Shane Lin and Amanda Visconti built [a webpage](http://zoomies.scholarslab.org/) that serves up a "pet zoomies" GIF by querying the Reddit API for the subreddit r/Zoomies.
 - form: miniARG  
   details:
 - form: speculative budget  
@@ -56,3 +56,7 @@
   details:
 - form: album  
   details:
+- form: multiple blog post drop  
+  details: Amanda Visconti published 7 posts at once [here](http://literaturegeek.com/2018/11/25/designing-dh-initiative-purdue-table-of-contents/), as a way to share a bunch of work that had been drafted for a while and was going to feel dated soon.  
+- form: barn-raising  
+  details: NEH ODH One Week | One Tool  
