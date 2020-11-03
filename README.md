@@ -1,6 +1,8 @@
 # Function follows form
 Ideas for shapes for DH and other experimental scholarship other than the usual (tool, blog post/post series, journal article/special issue, review, book). Collecting & suggesting; new ideas enthusiastically welcomed!
 
+In the /\_data/form.yml file, you can add explanations or examples in the "detail" field.
+
 # Contributors
 We'll add your name here if you contribute ideas!  
 * Brandon Walsh  
