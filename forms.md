@@ -1,8 +1,22 @@
-* toolkit
-* resources
-* manifesto
-* roadmap, cookbook, puppet show, syllabus, etc. lots of possible genres that all have their own shape") made we want an inspiration list of format ideas like that; I'd add some specific formats like browser extension, data/API query + display, miniARG, speculative budget, Twine/CYOA, zine, event
-process documents, reflections, failures, speculative future directions
+* toolkit  
+* manifesto  
+* roadmap  
+* cookbook  
+* tutorial  
+* puppet show  
+* syllabus  
+* browser extension  
+* data/API query + display  
+* miniARG  
+* speculative budget  
+* Twine/CYOA  
+* zine  
+* event  
+* process documents  
+* charter  
+* speculative policy  
+* reflections  
+* failures  
 
 Brandon, Amanda
 
